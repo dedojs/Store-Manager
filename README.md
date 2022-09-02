@@ -26,7 +26,7 @@ Primeiros passos:
 <h3>Rota GET /products</h3>
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/88631168/188172629-7fb26682-3c16-4511-b53c-784522125712.png](https://user-images.githubusercontent.com/88631168/188182529-b1ebcc84-d31d-4c49-825e-5137ce3e8f42.png" width="700px" />
+  <img src="https://user-images.githubusercontent.com/88631168/188182529-b1ebcc84-d31d-4c49-825e-5137ce3e8f42.png" width="700px" />
 </div>
 <br>
 <h3>Rota POST /products</h3>
