@@ -35,6 +35,34 @@ Primeiros passos:
   <img src="https://user-images.githubusercontent.com/88631168/188182904-b11bbe2a-3d60-444b-a077-8f2c60869844.png" width="700px" />
 </div>
 <br>
+<h3>Rota GET /products/search?q=espada</h3>
+<p>Faz a pesquisa através do parâmetro da url</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/88631168/188192135-bb347af8-c5bb-4d9b-a756-1af23053a871.png" width="700px" />
+</div>
+<br>
+<h3>Rota GET /products/2</h3>
+<p>Faz a pesquisa através do parâmetro(id) da url</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/88631168/188192881-ab869458-1ed8-4089-8de0-04302f75392c.png" width="700px" />
+</div>
+<br>
+<h3>Rota PUT /products/2</h3>
+<p>Faz o update do produto através do parâmetro(id) da url</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/88631168/188193314-2a1cf754-9b40-4deb-aea9-5e9920e29da3.png" width="700px" />
+</div>
+<br>
+<h3>Rota DELETE /products/1</h3>
+<p>Faz o delete do produto através do parâmetro(id) da url</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/88631168/188193551-5bb6b831-f2be-49db-914d-352abc469233.png" width="700px" />
+</div>
+<br>
 
 
 
