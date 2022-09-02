@@ -15,4 +15,8 @@ Primeiros passo:
 6- rode o comando npm run dev para iniciar o servidor
 7- acesse http://localhost:3006/docs/ no navegador para visualizar a documentação
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/88631168/188172629-7fb26682-3c16-4511-b53c-784522125712.png" width="700px" />
+</div>
+
 
