@@ -1,7 +1,7 @@
 # Store-Manager
 API RESTFULL utilizando arquitetura MSC(model – service – controller). A aplicação é um sistema de gerenciamento de vendas no formato dropshipping em que será possível criar, visualizar, deletar e atualizar produtos e vendas. Foi utilizado o banco de dados MySQL para a gestão dos dados.
 
-Primeiros passo:
+Primeiros passos:
 <ol>
   <li>Clone o repositório</li>
   <li>digite o comando npm install</li>
@@ -21,5 +21,20 @@ Primeiros passo:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/88631168/188172629-7fb26682-3c16-4511-b53c-784522125712.png" width="700px" />
 </div>
+<br>
+<br>
+<h3>Rota GET /products</h3>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/88631168/188172629-7fb26682-3c16-4511-b53c-784522125712.png](https://user-images.githubusercontent.com/88631168/188182529-b1ebcc84-d31d-4c49-825e-5137ce3e8f42.png" width="700px" />
+</div>
+<br>
+<h3>Rota POST /products</h3>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/88631168/188182904-b11bbe2a-3d60-444b-a077-8f2c60869844.png" width="700px" />
+</div>
+<br>
+
 
 
